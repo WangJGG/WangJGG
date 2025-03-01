@@ -1,4 +1,4 @@
-## Hi there 👋 Jack Wang
+## 👋 Hi, I'm Jack Wang!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WangJGG&label=Profile%20views&color=0e75b6&style=flat" alt="WangJGG" /> </p>
 I'm Jack Wang (Jian-ge Wang), a Computer Science and Technology student at the School of Computer Science and Technology, Tongji University. I have a deep passion for computer vision and the multi-modal domain, and I enjoy exploring innovative ideas and cutting-edge technologies in these fields.
 
