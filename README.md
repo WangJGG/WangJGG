@@ -19,5 +19,5 @@ I'm Jack Wang (Jian-ge Wang), a Computer Science and Technology student at the S
 
 ---
 
-Feel free to explore my repositories and connect with me to collaborate on exciting projects in computer vision and multi-modal technologies.
+Feel free to explore my repositories, and if you're interested in discussing research opportunities or mentorship, please get in touch!
 
