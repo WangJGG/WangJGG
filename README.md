@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 Jack Wang
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WangJGG&label=Profile%20views&color=0e75b6&style=flat" alt="WangJGG" /> </p>
-<!--
-**WangJGG/WangJGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jack Wang (Jian-ge Wang), a Computer Science and Technology student at the School of Computer Science and Technology, Tongji University. I have a deep passion for computer vision and the multi-modal domain, and I enjoy exploring innovative ideas and cutting-edge technologies in these fields.
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+- Advanced computer vision projects with a focus on image segmentation, multi-modal data fusion, and AI-driven visual analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Deep learning techniques, neural networks, and the latest methods in multi-modal research.
+
+### 🎓 Future Research Directions
+- Delving deeper into computer vision challenges and multi-modal integration, with an interest in pursuing academic mentorship and collaboration with advisors who are leaders in these areas.
+
+### 📫 How to Reach Me
+- You can reach me via email at [2252699@tongji.edu.cn](mailto:2252699@tongji.edu.cn).
+
+### ⚡ Fun Fact
+- I love tackling challenging problems and turning creative ideas into tangible projects!
+
+---
+
+Feel free to explore my repositories and connect with me to collaborate on exciting projects in computer vision and multi-modal technologies.
+
