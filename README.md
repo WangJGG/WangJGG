@@ -1,23 +1,64 @@
-## 👋 Hi, I'm Jack Wang!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=WangJGG&label=Profile%20views&color=0e75b6&style=flat" alt="WangJGG" /> </p>
-I'm Jack Wang (Jian-ge Wang), a Computer Science and Technology student at the School of Computer Science and Technology, Tongji University. I have a deep passion for computer vision and the multi-modal domain, and I enjoy exploring innovative ideas and cutting-edge technologies in these fields.
+<div align="center">
 
-### 🔭 Currently Working On
-- Advanced computer vision projects with a focus on image segmentation, multi-modal data fusion, and AI-driven visual analytics.
+# Hi, I'm Jack Wang 👋
 
-### 🌱 Currently Learning
-- Deep learning techniques, neural networks, and the latest methods in multi-modal research.
+### Jian-ge Wang · Ph.D. Student @ Peking University
 
-### 🎓 Future Research Directions
-- Delving deeper into computer vision challenges and multi-modal integration, with an interest in pursuing academic mentorship and collaboration with advisors who are leaders in these areas.
+[![Peking University](https://img.shields.io/badge/Peking%20University-School%20of%20Computer%20Science-8B0000?style=flat-square)](https://cs.pku.edu.cn/)
+[![VIE Group](https://img.shields.io/badge/Research-VIE%20Group-2F80ED?style=flat-square)](https://github.com/vie-group)
+[![Email](https://img.shields.io/badge/Email-wangjiange26%40stu.pku.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wangjiange26@stu.pku.edu.cn)
 
-### 📫 How to Reach Me
-- You can reach me via email at [2252699@tongji.edu.cn](mailto:2252699@tongji.edu.cn).
-
-### ⚡ Fun Fact
-- I love tackling challenging problems and turning creative ideas into tangible projects!
+</div>
 
 ---
 
-Feel free to explore my repositories, and if you're interested in discussing research opportunities or mentorship, please get in touch!
+## 🧑‍💻 About Me
 
+I am **Jian-ge Wang (Jack Wang)**, a **Ph.D. student** at the **School of Computer Science, Peking University**, and a member of the **[VIE Group](https://github.com/vie-group)**.
+
+My research interests broadly lie in **Computer Vision**, **Multimodal Learning**, and **Medical AI**. I am particularly interested in building robust and generalizable learning systems for visual understanding, multimodal representation learning, and data-efficient medical image analysis.
+
+Before joining Peking University, I studied **Computer Science and Technology at Tongji University**.
+
+---
+
+## 🔬 Research Interests
+
+- 👁️ **Computer Vision**
+- 🧩 **Multimodal Learning**
+- 🏥 **Medical AI**
+
+
+---
+
+
+## 🎓 Education
+
+**Peking University**  
+Ph.D. Student, School of Computer Science
+
+**Tongji University**  
+B.Eng. in Computer Science and Technology
+
+---
+
+## 📫 Contact
+
+<p align="left">
+
+📧 **Email:** [wangjiange26@stu.pku.edu.cn](mailto:wangjiange26@stu.pku.edu.cn)  
+🏫 **Affiliation:** School of Computer Science, Peking University  
+🔬 **Research Group:** [VIE Group](https://github.com/vie-group)  
+💻 **GitHub:** [WangJGG](https://github.com/WangJGG)
+
+</p>
+
+---
+
+<div align="center">
+
+### Research is about turning interesting questions into reproducible answers.
+
+Feel free to explore my repositories or reach out for research discussions and collaborations.
+
+</div>
